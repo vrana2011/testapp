@@ -3,7 +3,5 @@ url = "https://pypi.python.org/simple"
 verify_ssl = true
 
 [packages]
-gunicorn = "*"
 Django = "*"
-"Ghost.py" = "*"
-"pyside" = "*"
+gunicorn = "*"
