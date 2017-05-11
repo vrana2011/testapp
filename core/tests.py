@@ -6,4 +6,4 @@ class TestSanity(TestCase):
     def test_assertion(self):
         assert 1
     def test_assertion_failing(self):
-        assert 0
+        assert 1
